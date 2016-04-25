@@ -7,6 +7,7 @@ public class Scm {
 System.out.println("Hello world");
 System.out.println("How r u?");
 System.out.println("i m fine");
+System.out.println("sajid how r u?");
 	}
 
 }
